@@ -1,10 +1,10 @@
 export const meta = {
-  title: 'LeBron James - Web Developer and Designer',
-  description: 'Hey, I\'m LeBron. I\'m a web developer and designer building things people love.'
+  title: 'Home | Walter',
+  description: 'Hey, I\'m Walter. I\'m a web developer and designer building things people love.'
 }
 
 export const hero = {
-  title: "Hey there! I'm LeBron James.",
+  title: "Hey there! I'm Walter Angoye.",
   desc: "I'm a web developer and designer building things people love."
 };
 
@@ -21,14 +21,14 @@ export const projects = {
     {
       title: 'Cool App',
       description: 'A cool app!',
-      link: 'https://lebronscoolapp.com',
-      github: 'theking-lbj/cool-app'
+      link: 'https://chynascoolapp.com',
+      github: 'chyna-gvng/cool-app'
     },
     {
       title: 'Another app',
       description: 'Another app!',
-      link: 'https://anotherlebronapp.com',
-      github: 'theking-lbj/another-app'
+      link: 'https://anotherchynapp.com',
+      github: 'chyna-gvng/another-app'
     }
   ]
 };
@@ -50,8 +50,8 @@ export const stack = {
 
 export const contact = {
   title: 'Contact Me',
-  email: 'lebron@gmail.com',
-  github: 'theking-lbj',
-  dribbble: 'theking-lbj',
-  linkedin: 'theking-lbj'
+  email: 'angoyewally@gmail.com',
+  github: 'chyna-gvng',
+  dribbble: 'chyna-gvng',
+  linkedin: 'chyna-gvng'
 };
