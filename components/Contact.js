@@ -27,23 +27,23 @@ export default function Stack() {
           >
             <Image
               src="/static/icons/github.svg"
-              width={20}
-              height={20}
+              width={30}
+              height={30}
               alt="Github icon"
             />
           </a>
         )}
-        {contact.dribbble && (
+        {contact.telegram && (
           <a
-            href={`https://dribbble.com/${contact.dribbble}`}
+            href={`https://t.me/${contact.telegram}`}
             target="_blank"
             rel="noreferrer"
           >
             <Image
-              src="/static/icons/dribbble.svg"
-              width={20}
-              height={20}
-              alt="Dribbble icon"
+              src="/static/icons/telegram.svg"
+              width={30}
+              height={30}
+              alt="Telegram icon"
             />
           </a>
         )}
@@ -55,8 +55,8 @@ export default function Stack() {
           >
             <Image
               src="/static/icons/linkedin.svg"
-              width={20}
-              height={20}
+              width={30}
+              height={30}
               alt="LinkedIn icon"
             />
           </a>

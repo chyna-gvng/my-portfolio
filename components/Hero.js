@@ -1,9 +1,15 @@
 import Image from 'next/image';
 import { hero } from '@/data/config';
 import { useTheme } from 'next-themes';
+import { useMemo } from 'react';
 
 export default function Hero() {
   const { theme, setTheme } = useTheme();
+
+  const getIcon = useMemo(() => {
+    return theme === 'dark' ? '/static/icons/sun.svg' : '/static/icons/moon.svg';
+  }, [theme]);
+
   return (
     <div className="mb-20">
       <div className="flex flex-row items-center justify-between w-full">
@@ -12,11 +18,11 @@ export default function Hero() {
             src="/static/profile.png"
             layout="fill"
             objectFit="contain"
-            alt="LeBron"
+            alt="Walter"
           />
         </div>
         <Image
-          src="/static/icons/sun.svg"
+          src={getIcon}
           width={30}
           height={30}
           alt="Toggle theme"
