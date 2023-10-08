@@ -61,6 +61,6 @@ export const contact = {
   title: 'Contact Me',
   email: 'angoyewally@gmail.com',
   github: 'chyna-gvng',
-  telegram: 'general_chyna',
+  telegram: 'generalchyna',
   linkedin: 'walter-angoye-20505a18b'
 };
