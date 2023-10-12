@@ -53,7 +53,8 @@ export const stack = {
     'NextJS',
     'GatsbyJS',
     'TailwindCSS',
-    'Firebase',
+    'Python',
+    'PostgreSQL',
     'Git'
   ]
 };
