@@ -51,6 +51,7 @@ export const stack = {
     'Typescript',
     'React',
     'NextJS',
+    'GatsbyJS',
     'TailwindCSS',
     'Firebase',
     'Git'
