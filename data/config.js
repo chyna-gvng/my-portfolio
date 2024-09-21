@@ -54,8 +54,10 @@ export const stack = {
     'GatsbyJS',
     'TailwindCSS',
     'Python',
-    'PostgreSQL',
-    'Git'
+    'SQL',
+    'Git',
+    'Docker',
+    'Linux'
   ]
 };
 
