@@ -11,8 +11,7 @@ export const hero = {
   ),
   desc: (
     <p>
-      I'm a passionate software developer and designer with a knack for creating digital experiences that people love. I'm on a mission to craft software that not only functions flawlessly but also delights users with its aesthetics and usability.<br />
-      I specialize in designing eye-catching, minimalist user interfaces. UIs should be intuitive, visually appealing, and easy to interact with; to me, simplicity is sophistication.
+      I'm a versatile engineer with a passion for crafting digital experiences that seamlessly blend form and function. From designing sleek user interfaces to architecting robust data pipelines and containerized environments, I thrive on creating solutions that not only work flawlessly but also delight users. With a foundation in software development, data engineering, and Linux systems, I'm on a mission to push the boundaries of what technology can achieve.
     </p>
   )
 };
