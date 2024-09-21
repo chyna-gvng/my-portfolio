@@ -11,7 +11,8 @@ export const hero = {
   ),
   desc: (
     <p>
-      I'm a versatile engineer with a passion for crafting digital experiences that seamlessly blend form and function. From designing sleek user interfaces to architecting robust data pipelines and containerized environments, I thrive on creating solutions that not only work flawlessly but also delight users. With a foundation in software development, data engineering, and Linux systems, I'm on a mission to push the boundaries of what technology can achieve.
+      I'm a versatile engineer with a passion for crafting digital experiences that seamlessly blend form and function. From designing sleek user interfaces to architecting robust data pipelines and containerized environments, I thrive on creating solutions that not only work flawlessly but also delight users.<br/>
+      With a foundation in software development, data engineering, and Linux systems, I'm on a mission to push the boundaries of what technology can achieve.
     </p>
   )
 };
